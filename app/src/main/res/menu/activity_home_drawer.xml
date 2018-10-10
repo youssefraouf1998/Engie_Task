@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home"
+            android:title="home"></item>
+        <item
+            android:id="@+id/nav_posts"
+            android:title="Corporate" />
+
+        <item
+            android:id="@+id/nav_class"
+            android:title="Class"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_dept"
+            android:title="Department"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_batch"
+            android:title="Batch"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_campus"
+            android:title="Campus"
+            android:visible="false" />
+
+
+
+
+        <item
+            android:id="@+id/nav_walls"
+            android:title="profiles" />
+
+        <item
+            android:id="@+id/nav_wall_news"
+            android:title="Journalists"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_wall_events"
+            android:title="Candidates"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_wall_fun"
+            android:title="Shareholders"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_wall_hadith"
+            android:title="Investors"
+            android:visible="false" />
+        <item
+            android:id="@+id/nav_wall_Poetry"
+            android:title="Sustainability"
+            android:visible="false" />
+
+        <item
+            android:id="@+id/message"
+            android:title="Message"/>
+
+        <item
+            android:id="@+id/about"
+            android:title="About"/>
+
+        <item
+            android:title="Help"
+/>
+
+        <item
+            android:title="Setting" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_com"
+        android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Invites" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fstring">Neque porro quisquam est qui dolorem
+        ipsum quia dolor sit amet, consectetur, adipisci velit.</string>
+    <string name="sstring">ipsum quia dolor sit amet, consectetur,adipisci velit.</string>
+    <string name="tstring">Neque porro quisquam est qui dolorem
+ipsum quia dolor sit amet, consectetur,
+adipisci velit.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="recent">Recent Search</string>
+    <string name="problem">Problem</string>
+    <string name="power">Power</string>
+    <string name="wind">Wind</string>
+    <string name="gas">Gas</string>
+    <string name="petrol">Petrol</string>
+    <string name="solar">Solar</string>
+    <string name="popular_search">Popular Search</string>
+    <string name="search">energy efficiency represents a low-risk, cost reduction opportunity for delivering economic, operational and sustainable value</string>
+    <string name="title_activity_home__button">Home_Button</string>
+</resources>
